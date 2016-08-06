@@ -2,7 +2,27 @@
 	margin: 0;
 	padding: 0;
 }
+
 .logo {
   border-radius: 50%;
   height: 2em;
+}
+.navbar-inverse {
+  background-color: rgb(224, 123, 28);
+  border: none;
+}
+.navbar-inverse .navbar-nav>li>a {
+  color: rgb(78, 112, 187);
+}
+.btn btn-lg btn-primary {
+  color: rgb(78, 112, 187);
+}
+.testimonials {
+  background-color: rgb(224, 123, 28);
+  border: none;
+  height: 50px;
+  margin-bottom: 20px;
+  color: rgb(78, 112, 187);
+  text-align: center;
+  padding: 15px; 0;
 }
